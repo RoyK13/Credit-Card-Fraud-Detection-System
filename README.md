@@ -10,7 +10,6 @@
 
 *An advanced machine learning system for real-time credit card fraud detection with web dashboard and mobile PWA support*
 
-[Demo](https://your-app-url.com) • [Documentation](https://github.com/shakiliitju/Credit-Card-Fraud-Detection-System/wiki) • [Report Bug](https://github.com/shakiliitju/Credit-Card-Fraud-Detection-System/issues)
 
 </div>
 
@@ -510,52 +509,6 @@ python -m pytest
 <p><em>Average Transaction Amount Over Time</em></p>
 </div>
 
-### 🚀 Live Demo
-<div align="center">
-<video width="800" controls>
-  <source src="screenshots/demo.mp4" type="video/mp4">
-  <source src="screenshots/demo.ogg" type="video/ogg">
-</video>
-<p><em>Live demonstration of fraud detection system in action</em></p>
-</div>
-
----
-
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2025 Md. Shakil Hossain
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-```
-
-## 👨‍💻 Author
-
-<div align="center">
-
-**Md. Shakil Hossain**
-
-[![GitHub](https://img.shields.io/badge/GitHub-shakiliitju-blue?style=flat&logo=github)](https://github.com/shakiliitju)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat&logo=google)](https://sites.google.com/view/shakiliitju/home)
-[![Email](https://img.shields.io/badge/Email-hossain.stu2018@juniv.edu-red?style=flat&logo=gmail)](mailto:hossain.stu2018@juniv.edu)
-[![University](https://img.shields.io/badge/University-Jahangirnagar-orange?style=flat)](https://juniv.edu)
-
-*Information Technology Student*  
-*Jahangirnagar University, Bangladesh*
-
 </div>
 
 ## 🙏 Acknowledgments
@@ -569,20 +522,11 @@ copies or substantial portions of the Software.
 - **Kaggle Community** - For providing credit card fraud datasets
 - **Open Source Community** - For countless libraries and tools
 
-## 📊 Project Statistics
-
-![GitHub stars](https://img.shields.io/github/stars/shakiliitju/Credit-Card-Fraud-Detection-System?style=social)
-![GitHub forks](https://img.shields.io/github/forks/shakiliitju/Credit-Card-Fraud-Detection-System?style=social)
-![GitHub issues](https://img.shields.io/github/issues/shakiliitju/Credit-Card-Fraud-Detection-System)
-![GitHub last commit](https://img.shields.io/github/last-commit/shakiliitju/Credit-Card-Fraud-Detection-System)
-
 ---
 
 <div align="center">
 
 **⭐ Star this repository if you find it helpful! ⭐**
-
-[🔝 Back to Top](#-intelligent-credit-card-fraud-prevention-system)
 
 </div>
 
