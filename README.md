@@ -389,16 +389,6 @@ python -m pytest --cov=app tests/
 python -m pytest tests/test_performance.py
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please follow these guidelines:
-
-1. **Fork the repository**
-2. **Create feature branch**: `git checkout -b feature/AmazingFeature`
-3. **Commit changes**: `git commit -m 'Add AmazingFeature'`
-4. **Push to branch**: `git push origin feature/AmazingFeature`
-5. **Open Pull Request**
-
 ### Development Setup
 
 ```bash
