@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-2.3+-green.svg)
 ![ML Models](https://img.shields.io/badge/ML%20Models-8-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![PWA](https://img.shields.io/badge/PWA-Enabled-purple.svg)
 
 *An advanced machine learning system for real-time credit card fraud detection with web dashboard and mobile PWA support*
