@@ -418,17 +418,6 @@ python -m pytest
 - ✅ CSV file upload functionality
 - ✅ Model accuracy calculations
 
-## 🙏 Acknowledgments
-
-- **[Flask](https://flask.palletsprojects.com/)** - The web framework powering our backend
-- **[scikit-learn](https://scikit-learn.org/)** - Core machine learning library
-- **[XGBoost](https://xgboost.readthedocs.io/)** - High-performance gradient boosting
-- **[Plotly.js](https://plotly.com/javascript/)** - Interactive data visualizations
-- **[imbalanced-learn](https://imbalanced-learn.org/)** - Handling imbalanced datasets
-- **[Font Awesome](https://fontawesome.com/)** - Beautiful icons throughout the interface
-- **Kaggle Community** - For providing credit card fraud datasets
-- **Open Source Community** - For countless libraries and tools
-
 ---
 
 <div align="center">
